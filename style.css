@@ -1,0 +1,51 @@
+.roll-dice {
+    width: 200px;
+    height: 100px;
+}
+
+.dices {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.form-dice {
+    float: left;
+}
+
+.double {
+    float: right;
+}
+
+.roll-dice {
+    margin: auto;
+}
+
+.dices input {
+    width: 50px;
+    height: 20px;
+}
+
+.container {
+    border: solid 1px black;
+    text-align: center;
+    width: 400px;
+    padding-bottom: 30px;
+    margin: auto;
+    padding-top: 50px;
+    background: rgb(0, 0, 0, 0.2);
+}
+
+body {
+    background-image: url("images/photo1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+div,
+p,
+label {
+    color: white;
+}
+
+input[type=text] {}
